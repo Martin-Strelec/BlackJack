@@ -20,7 +20,3 @@ Before any code was written it was essential to come up with the algorithm for t
 ![image](https://github.com/user-attachments/assets/180d0e25-f42f-4e61-a16c-7ad3be79afde)
 ![image](https://github.com/user-attachments/assets/3caf93f3-4325-463f-a50c-6e1d5261ef2d)
 ![image](https://github.com/user-attachments/assets/b131ff69-120c-4bea-97b8-2df4a550d4cb)
-## Coming soon...
-As this was a school project I did not have much time to implement all of the features included in the flowcharts and the actual code. There is really no time for slacking in the third semester :). However I'm planning to expand on this project since it is overlapping with my other project in C#. I will try to focus more on the unfinished features and hopefully I will have a full-blown Black Jack game with all the bells and whistles. 
-##Special Thanks
-I have to thank our lecturer [keithmcmanus](https://github.com/keithmcmanus) for the amazing CA2 topic. I really enjoyed the time developing this project and hopefully it will look good on my GitHub account.
